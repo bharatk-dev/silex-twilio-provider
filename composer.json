@@ -1,5 +1,5 @@
 {
-    "name": "amassaro/silex-twilio-provider",
+    "name": "bharatk/silex-twilio-provider",
     "type": "library",
     "description": "Twilio Service Provider for Twilio API and TwiML support in Silex",
     "keywords": ["twilio","api","twiml"],
